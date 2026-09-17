@@ -4,7 +4,7 @@ bio: "Where does your curiosity end?"
 description: "Moonrise is a fresh take on the classic Moon"
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.png"
+logo: "https://github.com/mjelliott3.png?size=500"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
@@ -36,20 +36,20 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
-twitter: username
+email: michael@michaelje.com
+#twitter: username
 facebook: username
-github-url: username
+github-url: github.com/mjelliott3
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin: username
+linkedin: username
 #xing: username
-instagram: username
+#instagram: username
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
@@ -59,7 +59,7 @@ steam: username
 #codepen: username
 #keybase: username
 #xmpp: username@server.com
-#hackernews: username
+hackernews: username
 
 # Plugins
 plugins:
