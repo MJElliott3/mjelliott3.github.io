@@ -19,7 +19,7 @@
         display: block;
         @include font-rem(28);
         font-weight: 700;
-        color: $red;
+        color: $color_shark;
     }
     .stat-label {
         display: block;
@@ -80,8 +80,8 @@
         color: $color_shark;
         @include transition(0.2s);
         &:hover {
-            border-color: $red;
-            color: $red;
+            border-color: $color_shark;
+            color: $color_shark;
         }
     }
 }
