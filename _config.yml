@@ -1,7 +1,7 @@
 # Site
-title: Michael Elliott
+title: Michael J. Elliott
 bio: "Where does your curiosity end?"
-description: "Moonrise is a fresh take on the classic Moon"
+description: "Personal portfolio and blog website for Michael J. Elliott"
 reading_time: true
 words_per_minute: 200
 logo: "/assets/img/Logo - Light mode.png"
@@ -41,7 +41,7 @@ email: michael@michaelje.com
 facebook: username
 github-url: github.com/mjelliott3
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+linkedin: michael-j-e
 #xing: username
 #instagram: username
 #lastfm: username
@@ -59,7 +59,7 @@ linkedin: username
 #codepen: username
 #keybase: username
 #xmpp: username@server.com
-hackernews: username
+#hackernews: username
 
 # Plugins
 plugins:
