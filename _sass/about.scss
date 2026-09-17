@@ -1,0 +1,94 @@
+.about-intro {
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+.stat-strip {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2em;
+    margin: 1.5em 0;
+    padding: 1em 0;
+    border-top: 1px solid $color_gallery;
+    border-bottom: 1px solid $color_gallery;
+}
+.stat {
+    text-align: center;
+    .stat-num {
+        display: block;
+        @include font-rem(28);
+        font-weight: 700;
+        color: $red;
+    }
+    .stat-label {
+        display: block;
+        @include font-rem(12);
+        color: $color_stack;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+}
+
+.about-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2em;
+    margin: 2em 0;
+    justify-content: center;
+}
+.about-card {
+    flex: 1 1 220px;
+    max-width: 260px;
+    background: $color_alabaster;
+    border: 1px solid $color_gallery;
+    padding: 1.4em;
+    text-align: center;
+    @include rounded(6px);
+    @include transition(0.25s);
+    &:hover {
+        box-shadow: 0 0 10px 0 rgba($color_shark, 0.15);
+        transform: translateY(-3px);
+    }
+    i {
+        @include font-rem(26);
+        color: $red;
+        margin-bottom: 0.4em;
+    }
+    h3 {
+        @include font-rem(16);
+        margin: 0.3em 0;
+    }
+    p {
+        @include font-rem(13);
+        color: $color_fuscous_gray;
+        margin: 0;
+    }
+}
+
+.skill-pills {
+    text-align: center;
+    margin: 1.5em 0;
+    .pill {
+        display: inline-block;
+        padding: 5px 14px;
+        margin: 4px;
+        @include font-rem(12);
+        @include rounded(20px);
+        background: $white;
+        border: 1px solid $color_mischka;
+        color: $color_shark;
+        @include transition(0.2s);
+        &:hover {
+            border-color: $red;
+            color: $red;
+        }
+    }
+}
+
+@media #{$small} {
+    .about-card {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
