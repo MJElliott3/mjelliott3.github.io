@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About Me
 comments: false
 ---
 
@@ -37,20 +36,22 @@ I'm a dual-enrolled <strong>CS</strong> (NC State) and <strong>IT</strong> (Wake
   <div class="about-card">
     <i class="fa fa-server"></i>
     <h3>Homelab</h3>
-    <p>Proxmox lab built from the ground up: virtual firewall, Active Directory domain, and a SIEM.</p>
+    <p>Proxmox lab built from the ground up: virtual firewall, Active Directory domain, and a SIEM that also doubles as a sandbox for pentesting and ethical hacking practice.</p>
   </div>
   <div class="about-card">
     <i class="fa fa-users"></i>
     <h3>Teaching</h3>
-    <p>Taught Python, Unity, and cybersecurity fundamentals professionally at Code Wiz.</p>
+    <p>Taught cybersecurity fundamentals, Python, Unity, and Godot professionally at Code Wiz.</p>
   </div>
 </div>
 
 <div class="skill-pills">
-  <span class="pill">Python</span>
-  <span class="pill">C / C++</span>
-  <span class="pill">Java</span>
   <span class="pill">Networking</span>
+  <span class="pill">Cybersecurity</span>
+  <span class="pill">Pentesting</span>
   <span class="pill">Linux</span>
   <span class="pill">Proxmox</span>
+  <span class="pill">Python</span>
+  <span class="pill">C / C#</span>
+  <span class="pill">Java</span>
 </div>
