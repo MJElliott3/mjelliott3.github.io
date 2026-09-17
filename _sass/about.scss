@@ -38,6 +38,7 @@
     justify-content: center;
 }
 .about-card {
+    cursor: default;
     flex: 1 1 220px;
     max-width: 260px;
     background: $color_alabaster;
@@ -67,6 +68,7 @@
 }
 
 .skill-pills {
+    cursor: default;
     text-align: center;
     margin: 1.5em 0;
     .pill {
@@ -87,6 +89,7 @@
 }
 
 @media #{$small} {
+    cursor: default;
     .about-card {
         flex: 1 1 100%;
         max-width: 100%;
