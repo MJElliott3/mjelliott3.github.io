@@ -4,7 +4,7 @@ bio: "Where does your curiosity end?"
 description: "Moonrise is a fresh take on the classic Moon"
 reading_time: true
 words_per_minute: 200
-logo: "https://github.com/mjelliott3.png?size=500"
+logo: "/assets/img/Logo - Light mode.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
