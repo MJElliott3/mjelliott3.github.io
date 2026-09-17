@@ -5,12 +5,9 @@ tags: []
 date: 2026-09-17
 comments: false
 ---
-
-## About Me
-
 <center>I'm Michael Elliott, a dual-enrolled CS (NC State) and IT (Wake Tech) student
 based in Raleigh, NC, graduating in 2028. I hold the Cisco CCST - Networking certification
-as well as the CompTIA A+ Core 1, and currently studying for the CCNA. I spend most of 
+as well as the CompTIA A+ Core 1, and I'm currently studying for the CCNA. I spend most of 
 my free time turning curiosity into infrastructure - my current project is a Proxmox 
 homelab where I'm standing up a virtual firewall, an Active Directory domain, and a SIEM
 from the ground up. I've taught cybersecurity fundamentals, Unity, and Python professionally,
