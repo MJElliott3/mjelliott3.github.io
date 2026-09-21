@@ -5,7 +5,7 @@ description: "Personal portfolio and blog website for Michael J. Elliott"
 reading_time: true
 words_per_minute: 200
 logo: "/assets/img/Logo - Light mode.png"
-background: "assets/img/moonrise-background.jpg"
+background: "assets/img/wp12100678-coding-pc-4k-wallpapers.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 url: https://mjelliott3.github.io
