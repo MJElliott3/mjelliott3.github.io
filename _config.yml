@@ -8,7 +8,7 @@ logo: "/assets/img/Logo - Light mode.png"
 background: "assets/img/wp14343899-backend-developer-wallpapers.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://mjelliott3.github.io
+url: https://michaelje.com
 
 # Jekyll
 permalink: /:title/
