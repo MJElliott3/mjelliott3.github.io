@@ -2,6 +2,7 @@
 layout: post
 title: "Building My Proxmox Homelab: A Sandbox for Networking and Security"
 date: 2026-09-21
+feature: http://i.imgur.com/Ds6S7lJ.png
 categories: [Homelab, Networking]
 tags: [proxmox, homelab, cybersecurity, pentesting]
 ---
