@@ -35,7 +35,7 @@ I'm a dual-enrolled <strong>CS</strong> (NC State) and <strong>IT</strong> (Wake
   </div>
   <div class="about-card">
     <i class="fa fa-server"></i>
-    <h3><a href="michaelje.com/homelab-overview">Homelab</a></h3>
+    <h3><a href="/homelab-overview">Homelab</a></h3>
     <p>Proxmox lab built from the ground up: virtual firewall, Active Directory domain, and a SIEM that also doubles as a sandbox for pentesting and ethical hacking practice.</p>
   </div>
   <div class="about-card">
