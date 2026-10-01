@@ -17,14 +17,16 @@ Certifications and coursework teach you the theory, but there's no substitute fo
 
 The lab runs on an old computer repurposed into a Proxmox VE host — proof that you don't need a rack of enterprise gear to start learning virtualization and networking seriously. Proxmox turned that single machine into a flexible playground for spinning up, breaking, and rebuilding virtual environments as often as I want.
 
+![Proxmox VE dashboard showing the homelab VMs](/assets/img/ProxmoxOverview.png)
+
 ## What's Running (and What's Coming)
 
 Right now the lab is a Proxmox host with an evolving list of services I'm actively building out:
 
-- **pfSense** — a virtual firewall to practice network segmentation and traffic control
+- **pfSense** (running) — a virtual firewall to practice network segmentation and traffic control [Read the build log →](/your-pfsense-post-url)
+- **Parrot Security VM** (running) - a pentesting VM, accessed over SPICE for remote desktop [Read the build log →](/your-pfsense-post-url)
 - **Active Directory** — a domain controller paired with a Windows 11 workstation, for hands-on AD administration and Windows domain security
 - **A SIEM** — for centralized logging and log analysis practice
-- **Cohort** — my own classroom management Progressive Web App (Node.js, Express, MariaDB, Docker), deployed into the lab as a real containerized workload to secure and monitor
 - **A k3s cluster** — lightweight Kubernetes, for container orchestration experience
 
 Each piece adds a new layer to defend, monitor, or exploit — which is the point.
